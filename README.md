@@ -1,5 +1,5 @@
-准备写一个为markdown生成目录的插件，支持跳转
-<a href="#1.">1.goto</a>
+准备写一个为markdown生成目录的插件，支持跳转  
+<a href="#1.">goto</a>  
 nothing  
 nothing  
 nothing  
