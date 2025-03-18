@@ -69,3 +69,4 @@ nothing
 nothing  
 nothing  
 nothing  
+呃 被告知`[toc]`可以生成目录，试了一下在typora里是可以的
